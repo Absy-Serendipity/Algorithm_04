@@ -8,11 +8,11 @@
   
   1.2 Training with Training loss
   
-  ![image](https://user-images.githubusercontent.com/107142407/172792979-782b2a12-e0d9-407a-b121-a81444fa7ef6.png)
+  ![image](https://user-images.githubusercontent.com/107142407/172797489-2055cda5-6805-4e61-904a-63a4858e9a87.png)
 
   1.3 test accuracy
 
-  ![image](https://user-images.githubusercontent.com/107142407/172793060-0374510c-93fd-4935-b166-ff0b77bbd107.png)
+  ![image](https://user-images.githubusercontent.com/107142407/172797590-f831f19b-d41c-469d-8df1-cc254aadbffa.png)
 
   
   1.4 Images and corresponding probability that are correctly predicted
@@ -21,7 +21,7 @@
 
   1.5 Images and corresponding probability that are predicted wrong
   
-  ![image](https://user-images.githubusercontent.com/107142407/172793583-cf0637d8-f488-4848-8766-30acf875158f.png)
+  ![image](https://user-images.githubusercontent.com/107142407/172797626-64535660-582b-4984-b5d3-78317018e510.png)
 
 
 ### 2. Model2
@@ -31,11 +31,11 @@
 
   2.2 Training with Training loss
   
-  ![image](https://user-images.githubusercontent.com/107142407/172794464-495254d8-f7f2-4785-953a-3667c71b66a0.png)
+  ![image](https://user-images.githubusercontent.com/107142407/172797703-3952ef18-9b04-4c09-b9fc-2216a5c1a32e.png)
   
   2.3 test accuracy
   
-  ![image](https://user-images.githubusercontent.com/107142407/172794513-19f94e03-9f0e-4d7c-a7c0-e8aa6f6e8ebd.png)
+  ![image](https://user-images.githubusercontent.com/107142407/172797768-701823b1-f0b9-48ac-b296-a6d460e811ff.png)
 
   2.4 Images and corresponding probability that are correctly predicted
   
@@ -43,7 +43,7 @@
   
   2.5 Images and corresponding probability that are predicted wrong
   
-  ![image](https://user-images.githubusercontent.com/107142407/172794965-1713c53f-ea31-4303-b1f3-4288d68d5a01.png)
+  ![image](https://user-images.githubusercontent.com/107142407/172797808-f7dcf00c-e95e-4f51-8bc9-e27cf3aedb55.png)
 
 ### 3. Model3
   3.1 seven-layer model
@@ -52,11 +52,11 @@
 
   3.2 Training with Training loss
   
-  ![image](https://user-images.githubusercontent.com/107142407/172795160-a3721dc7-e114-4cde-88fe-17c3dbaf3655.png)
+  ![image](https://user-images.githubusercontent.com/107142407/172797854-bca57c3c-8a34-41d6-a2c2-1a65168210f9.png)
 
   3.3 test accuracy
   
-  ![image](https://user-images.githubusercontent.com/107142407/172795226-b0a1914a-f08f-44f4-ae78-27a29bdac502.png)
+  ![image](https://user-images.githubusercontent.com/107142407/172797893-4d8e9f7b-f151-4549-bfd5-15e63f2b7261.png)
 
   3.4 Images and corresponding probability that are correctly predicted
   
@@ -64,4 +64,4 @@
   
   3.5 Images and corresponding probability that are predicted Wrong
   
-  ![image](https://user-images.githubusercontent.com/107142407/172795321-1b2ea0ef-2d74-49ad-95f0-a28fb37720d7.png)
+  ![image](https://user-images.githubusercontent.com/107142407/172797955-ee790de1-0935-4f7c-8d90-6299ad6d8c87.png)
